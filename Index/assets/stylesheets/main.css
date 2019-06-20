@@ -1,0 +1,21 @@
+header{
+    text-align: center;color:palevioletred;
+}
+h1{
+    background: #2977C9;
+    color:whitesmoke;
+}
+ul{
+    font-family: Verdana, Tahoma, Arial;
+    font-size:100%;
+    background:lavender;
+    font-variant:small-caps;
+}
+details{
+    color:#2977C9;
+    font-variant:small-caps;
+}
+iframe{
+    text-align: center;
+
+}
